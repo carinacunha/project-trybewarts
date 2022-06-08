@@ -11,3 +11,11 @@ function alertMessage() {
   }
 }
 buttonSend.addEventListener('click', alertMessage);
+
+const buttonSubmit = document.getElementById('submit-btn');
+const checkInfo = document.getElementById('agreement');
+function enable() {
+  buttonSubmit.disabled = !checkInfo.checked;
+}
+
+checkInfo.addEventListener('change', enable);
