@@ -19,3 +19,9 @@ function enable() {
 }
 
 checkInfo.addEventListener('change', enable);
+
+const textbox = document.getElementById('textarea');
+const counter = document.getElementById('counter');
+textbox.onkeyup = (e) => {
+  counter.innerHTML = `${500 - e.target.value.length} caracteres restantes.`;
+};
