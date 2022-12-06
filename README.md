@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# :sparkles: Trybewarts #
+
+In this project was developer a Trybewarts School of Wizardry form page where student people can submit their feedback on it.
+
+🛠 Tools
+- HTML
+_ CSS
+- JavaScript
+
+## :bulb: Guidelines to runnig application##
+### :computer: Local ###
+1. Clone the repository 
+  - git@github.com:carinacunha/project-blogs-api.git
+  - Go into the repository folder you just cloned
+2. Install the dependencies: npm install
