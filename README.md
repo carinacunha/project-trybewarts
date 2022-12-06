@@ -4,7 +4,7 @@ In this project was developer a Trybewarts School of Wizardry form page where st
 
 🛠 Tools
 - HTML
-_ CSS
+- CSS
 - JavaScript
 
 ## :bulb: Guidelines to runnig application##
