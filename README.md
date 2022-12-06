@@ -7,7 +7,7 @@ In this project was developer a Trybewarts School of Wizardry form page where st
 - CSS
 - JavaScript
 
-## :bulb: Guidelines to runnig application##
+##:bulb: Guidelines to runnig application##
 ### :computer: Local ###
 1. Clone the repository 
   - git@github.com:carinacunha/project-blogs-api.git
