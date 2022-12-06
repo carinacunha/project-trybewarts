@@ -1,5 +1,5 @@
 # :sparkles: Trybewarts #
-![alt Form](db.png "Form Trybewarts")
+![alt Form](wart.png "Form Trybewarts")
 In this project was developer a Trybewarts School of Wizardry form page where student people can submit their feedback on it.
 
 🛠 Tools
