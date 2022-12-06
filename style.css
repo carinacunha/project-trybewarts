@@ -1,5 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+form {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+div {
+  display: inline;
+  margin-top: 10px;
+}
+
 .header {
   display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
   background-color: rgb(50, 167, 145);
 }
 
@@ -20,6 +42,8 @@
 #evaluation-form {
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
+  line-height: 30px;
   width: 675px;
 }
 
@@ -31,4 +55,33 @@ main {
 
 #trybewarts-forms-logo {
   height: 500px;
+}
+
+#email, #senha {
+  height: 24px;
+  border-radius: 5px;
+  border-style: none;
+}
+
+#button {
+  height: 27px;
+  border-radius: 5px;
+  border-style: none;
+  margin-right: 3px;
+  background-color: white;
+}
+
+#submit-btn {
+  height: 29px;
+  width: 75px;
+  border-radius: 5px;
+  background-color: rgb(50, 167, 145);
+  color: white;
+  font-size: 20px;
+  border-style: none;
+}
+
+footer {
+  font-size: 13px;
+  margin-top: 20px;
 }
